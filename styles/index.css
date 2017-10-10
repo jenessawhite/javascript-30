@@ -1,0 +1,9 @@
+body {
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3 {
+  font-family: 'Dancing Script', cursive;
+}
